@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Meta data for the repo is created. And git commands start to work on this repo. So if you want to track your history using git, 
+then you should initialize it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a middle phase between working directory and repository. Before making a commit to repo, we add all the files we want to make changes to the staging area, and the changes on these files will reflect in the next commit we make. So staging area gives us the freedom to choose files which we want to include in a git commit.
+
