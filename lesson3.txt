@@ -15,3 +15,6 @@ Forking is like cloning but on github servers only snd not locally. Use it when 
 project and you don't have permission to make changes in their repo.
 Branches can be made locally and on github server. use them when we want to work on a new/experimental feature.
 cloning is just copying what is there on github to our local repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can track how much chnages we have made wrt the remote.
