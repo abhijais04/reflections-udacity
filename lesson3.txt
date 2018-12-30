@@ -1,2 +1,17 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+
+When collabrating with others or when I want to share my code publicly.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because If there are other contributors in my project, I might don'y want thier changes in my local account without
+my permission.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forking is like cloning but on github servers only snd not locally. Use it when you want to contribute to someone other's
+project and you don't have permission to make changes in their repo.
+Branches can be made locally and on github server. use them when we want to work on a new/experimental feature.
+cloning is just copying what is there on github to our local repo.
