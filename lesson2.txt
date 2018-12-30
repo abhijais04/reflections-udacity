@@ -7,3 +7,17 @@ How is the staging area different from the working directory and the repository?
 
 It is a middle phase between working directory and repository. Before making a commit to repo, we add all the files we want to make changes to the staging area, and the changes on these files will reflect in the next commit we make. So staging area gives us the freedom to choose files which we want to include in a git commit.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We only stage files which belongs to one logical changes. and then make commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Situations like - testing an experimental feature. Or when many people collaborate on a single project, then crfeation of braches allow us to keep intact the main code and at the same time test out these new changes.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams makes it easy and intuitive  understand reachability and effect on each branch checkout.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+changes from both branches are incorporated into one. 
