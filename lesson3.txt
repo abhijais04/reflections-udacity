@@ -18,3 +18,6 @@ cloning is just copying what is there on github to our local repo.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can track how much chnages we have made wrt the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If the number of people collaborating is more, then it will be hard to manage. Also without git, for each experimental change, a whole new copy of the project has to be made. That will be hard.
